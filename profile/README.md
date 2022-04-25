@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi there 👋 Welcome to `TCOF` (The City of Robloxia)
+
+## Who we are
+
+We are in charge of the up and coming roblox game called TCOR!
+
+This game has been inspired by the game `The Neighborhood of Robloxia`
+
+This is a refined version of TNOR with more fetures.
+
+We own 100% of our game idea to Q_Q the developer of TNOR...
+
+Our success is 100% beacuse of thier OG game and his work.
+
+
+## What we have (all of this is plans)
+
+[Check our trello](https://trello.com/b/uifEC8rf/plans)
 
 <!--
 
