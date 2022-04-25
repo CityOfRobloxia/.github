@@ -17,6 +17,10 @@ Our success is 100% beacuse of thier OG game and his work.
 
 [Check our trello](https://trello.com/b/uifEC8rf/plans)
 
+## Want to help?
+
+If you would like to help us please fill out our google form [Here](https://forms.gle/DTGSJEDZhnJ5ZJRKA)
+
 <!--
 
 **Here are some ideas to get you started:**
