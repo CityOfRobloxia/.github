@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to `TCOF` (The City of Robloxia)
+# Hi there 👋 Welcome to `TCOR` (The City of Robloxia)
 
 ## Who we are
 
